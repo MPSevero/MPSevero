@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=MPSevero&fontSize=40&fontColor=ffffff"/>
 </p>
 
-# 🎮📊 MPSevero | Data Player
+# 🎮📊 MPSevero | Data Analyst | Gamer
 
 <p align="center">
-  🧠 Transformando dados em decisões  
-  🎮 Evoluindo como um player no mundo da tecnologia
+  
+    🎮📊 Extrair, processar e analisar dados... e nas horas vagas um pouco de games
 </p>
 
 ---
@@ -55,20 +55,6 @@
 
 ---
 
-## 🧭 Escolha seu caminho
-
-👉 📊 [Projetos de Dados](https://github.com/MPSevero?tab=repositories)  
-👉 🎮 [Estudos e Lógica](https://github.com/MPSevero)  
-
----
-
-## 🧬 Lore
-
-Começando pela lógica de programação, evoluindo para análise de dados  
-e construindo soluções que transformam informação em decisão.
-
----
-
 ## ⚡ Badges
 
 <p align="center">
@@ -77,10 +63,4 @@ e construindo soluções que transformam informação em decisão.
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow"/>
   <img src="https://img.shields.io/badge/VBA-Automation-orange"/>
   <img src="https://img.shields.io/badge/Databricks-BigData-red"/>
-</p>
-
----
-
-<p align="center">
-  🚀 “Dados são o novo combustível. Saber usá-los é o verdadeiro poder.”
 </p>
