@@ -23,3 +23,5 @@
   <img src="https://img.shields.io/badge/VBA-Automation-orange"/>
   <img src="https://img.shields.io/badge/Databricks-BigData-red"/>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/MPSevero/MPSevero/output/github-contribution-grid-snake.svg)
